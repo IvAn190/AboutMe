@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Telecommunications Engineer
 ---------------------------
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font+Mono&size=20&duration=2000&pause=500&color=49F7B6&background=FFFFFF00&vCenter=true&random=true&width=540&height=40&lines=Welcome+to+my+Aboutme)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font+Mono&size=20&duration=2000&pause=500&color=49F7B6&background=FFFFFF00&vCenter=true&random=true&width=540&height=40&lines=Welcome+to+my+Aboutme;Telecommunications+Engineer+working+in+GNSS)](https://git.io/typing-svg)
 
 blablabla
 
